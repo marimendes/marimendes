@@ -1,4 +1,4 @@
-<h2>Hi everyone! I'm Mariana Mendes/h2>
+<h2>Hi everyone! I'm Mariana Mendes </h2>
 
 <img align="left" src="https://media.giphy.com/media/dWmL1DJHoTCuwd7hXy/giphy.gif" width="120">
 <p><em>Graduanting in Software Enginner at <a href="http://www.unb.br">University of Brasilia</a></em></p>
