@@ -14,7 +14,7 @@
 const mari = {
   pronouns: "she" | "her",
   code: [Django, Python, Javascript, Ruby, CSS, HTML, Dart],
-  tools: [Flutter, Docker ],
+  tools: [Flutter, Docker, Figma],
   organization : PyLadiesDF,
   challenge: I'm learning more about UX and QA!"
 }
