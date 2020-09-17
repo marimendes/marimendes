@@ -13,10 +13,12 @@
 ```javascript
 const mari = {
   pronouns: "she" | "her",
-  code: [Django, Python, Javascript, Ruby, CSS, HTML, Dart],
-  tools: [Flutter, Docker, Figma],
+  code: [Django, Python, Javascript, Ruby, CSS, HTML, C...],
+  tools: [Docker, Figma...],
+  QA: [Cucumber, Capybara...],
   organization : PyLadiesDF,
-  challenge: I'm learning more about UX and QA!"
+  challenge: I'm learning more about UX and QA!
+  twitch.tv: Sometimes i stream on https://www.twitch.tv/littlemah and i do some layouts for twitch too
 }
 ```
 <br/>
@@ -32,7 +34,7 @@ const mari = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimendes&layout=compact&theme=radical" />
 </a>
 
-
+<br/>
 <br/>
 
 <p align="center"><b><em>This is a little about me! <br>If u want to now more please contact me 💖</em></b></p>
