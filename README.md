@@ -1,7 +1,7 @@
 
 
 <a href="https://ibb.co/8rJ6b7s"> 
-  <img  align="center" src="https://i.ibb.co/x1yJY7L/painel.png" alt="painel" border="0">
+  <img  align="left" src="https://i.ibb.co/x1yJY7L/painel.png" alt="painel" border="0">
 </a>
 
 
